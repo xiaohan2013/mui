@@ -10,16 +10,16 @@
     "mobile",
     "prototype"
   ],
-  "homepage": "https://github.com/dcloudio/mui",
-  "author": "DCloud",
+  "homepage": "https://github.com/xiaohan2013/mui",
+  "author": "xiaohan2013",
   "style": "dist/css/mui.css",
   "sass": "sass/mui.scss",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dcloudio/mui.git"
+    "url": "https://github.com/xiaohan2013/mui.git"
   },
   "bugs": {
-    "url": "https://github.com/dcloudio/mui/issues"
+    "url": "https://github.com/xiaohan2013/mui/issues"
   },
   "license": "MIT",
   "scripts": {
@@ -36,7 +36,7 @@
     "grunt-contrib-cssmin": "~0.9.0",
     "grunt-contrib-jshint": "~0.10.0",
     "grunt-contrib-sass": "~0.7.3",
-    "grunt-contrib-uglify": "~0.4.0",
+    "grunt-contrib-uglify": "~0.11.0",
     "grunt-contrib-watch": "~0.6.1",
     "grunt-csscomb": "~2.0.1",
     "grunt-html-validation": "~0.1.17",

@@ -1,3 +1,4 @@
+@charset "utf-8";
 //
 // Base styles
 // --------------------------------------------------
@@ -8,7 +9,7 @@
     box-sizing: border-box;
     -webkit-tap-highlight-color: rgba(0,0,0,0);
     -webkit-tap-highlight-color: transparent;
-    -webkit-user-select: none;//禁止选择文字
+    -webkit-user-select: none;
     outline: none;
 }
 // We fix position the body and scroll `.#{$namespace}content`.

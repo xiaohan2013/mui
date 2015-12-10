@@ -152,7 +152,7 @@ module.exports = function(grunt) {
 				banner: '<%= banner %>',
 				compress: true,
 				mangle: true,
-				preserveComments: false
+				preserveComments: false,
 			},
 			mui: {
 				src: '<%= concat.mui.dest %>',
